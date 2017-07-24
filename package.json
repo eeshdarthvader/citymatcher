@@ -1,0 +1,24 @@
+{
+  "name": "frontend-test",
+  "version": "1.0.0",
+  "description": "kununu Frontend Test",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kununu/frontend-test.git"
+  },
+  "author": "Karl Horky",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kununu/frontend-test/issues"
+  },
+  "homepage": "https://github.com/kununu/frontend-test#readme"
+}
