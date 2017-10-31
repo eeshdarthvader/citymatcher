@@ -1,0 +1,2677 @@
+[
+  {
+    "id": 13610,
+    "name": "Steinfeld (Altmark)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 4129,
+    "name": "Pigniu",
+    "admin_area": "Graubünden"
+  },
+  {
+    "id": 14698,
+    "name": "Liebschützberg",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 8194,
+    "name": "Beetzseeheide",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 18867,
+    "name": "Hof am Leitaberg",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 17001,
+    "name": "Drei Gleichen (Gemeinde)",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 18853,
+    "name": "Waldelms",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8293,
+    "name": "Diensdorf-Radlow",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 8193,
+    "name": "Beetzsee (Gemeinde)",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 12771,
+    "name": "Hochstadt (Pfalz)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 8786,
+    "name": "Hünfelden",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 16520,
+    "name": "Griefstedt",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 6137,
+    "name": "Aletshausen",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 5955,
+    "name": "Waldbrunn",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8704,
+    "name": "Friedberg (Hessen)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 5246,
+    "name": "Walddorfhäslach",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8948,
+    "name": "Sensbachtal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8699,
+    "name": "Frankenberg (Eder)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 10614,
+    "name": "Veltheim (Ohe)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 8181,
+    "name": "Uckerfelde",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 10499,
+    "name": "Verden (Aller)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 8215,
+    "name": "Fredersdorf-Vogelsdorf",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 18588,
+    "name": "Hinwil Dist Ba",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 14936,
+    "name": "Ziegra-Knobelsdorf",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 8624,
+    "name": "Biebergemünd",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 9007,
+    "name": "Wöllstadt",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8272,
+    "name": "Siehdichum",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 14915,
+    "name": "Weißenborn/Erzgeb.",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 7322,
+    "name": "Nordheim v.d.Rhön",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14941,
+    "name": "Zschaitz-Ottewig",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 18774,
+    "name": "Trebsen Mulde",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 8483,
+    "name": "Alt Zauche-Wußwerk",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 8253,
+    "name": "Dahmetal",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 8130,
+    "name": "Wörth a.d.Donau",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 10726,
+    "name": "Staufenberg",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 8693,
+    "name": "Fischbachtal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14822,
+    "name": "Reichenbach/O.L.",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 17698,
+    "name": "Carlsfeld, Erzgebirge",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 8291,
+    "name": "Lindow (Mark)",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 14447,
+    "name": "Finneland",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 2775,
+    "name": "Carabbietta",
+    "admin_area": "Tessin"
+  },
+  {
+    "id": 7885,
+    "name": "Töging a.Inn",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8492,
+    "name": "Gorden-Staupitz",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 18092,
+    "name": "Neuchâtel 7",
+    "admin_area": "Neuenburg"
+  },
+  {
+    "id": 18742,
+    "name": "Wilen bei Wollerau",
+    "admin_area": "Schwyz"
+  },
+  {
+    "id": 14542,
+    "name": "Dreiheide",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 8183,
+    "name": "Flieth-Stegelitz",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 3415,
+    "name": "Hofstetten bei Elgg",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 8781,
+    "name": "Hohenstein",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 7871,
+    "name": "Thundorf i.UFr.",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 16663,
+    "name": "Vogtländisches Oberland",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 19036,
+    "name": "Berndorf-St. Veit",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 18955,
+    "name": "St. Lorenzen",
+    "admin_area": "Steiermark"
+  },
+  {
+    "id": 17829,
+    "name": "Helgisried-Rohrbach",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 8015,
+    "name": "Wasserburg a.Inn",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 6474,
+    "name": "Egg a.d.Günz",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18750,
+    "name": "Drobollach am Faaker See",
+    "admin_area": "Kärnten"
+  },
+  {
+    "id": 8472,
+    "name": "Milower Land",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 10074,
+    "name": "Wustrow (Wendland)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 14428,
+    "name": "Brücken-Hackpfüffel",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 19080,
+    "name": "Halle (Saale)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 5003,
+    "name": "Lichtenwald",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 17034,
+    "name": "9., Alsergrund",
+    "admin_area": "Wien"
+  },
+  {
+    "id": 17866,
+    "name": "Basel Novartis Campus",
+    "admin_area": "Basel-Stadt"
+  },
+  {
+    "id": 18593,
+    "name": "Wetzikon ZH 4",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 14627,
+    "name": "Hartmannsdorf-Reichenau",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 8238,
+    "name": "Burg (Spreewald)",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 9396,
+    "name": "Kuhlen-Wendorf",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 17778,
+    "name": "Hettiswil b. Hindelbank",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 5681,
+    "name": "Eichstetten am Kaiserstuhl",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8390,
+    "name": "Uebigau-Wahrenbrück",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 4031,
+    "name": "Oberried am Brienzersee",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 9001,
+    "name": "Willingen (Upland)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14033,
+    "name": "Sandersleben (Anhalt)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 17639,
+    "name": "Kaltenbrunn, Oberpfalz",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8759,
+    "name": "Haunetal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 9773,
+    "name": "Wieck a. Darß",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 17046,
+    "name": "21., Floridsdorf",
+    "admin_area": "Wien"
+  },
+  {
+    "id": 16687,
+    "name": "Ettenhausen a.d. Suhl",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 14679,
+    "name": "Langenweißbach",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 16468,
+    "name": "Bad Colberg-Heldburg",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 5087,
+    "name": "Oberndorf am Neckar",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 4372,
+    "name": "Saint-Saphorin-sur-Morges",
+    "admin_area": "Waadt"
+  },
+  {
+    "id": 17868,
+    "name": "Basel 35 Bäumlihof",
+    "admin_area": "Basel-Stadt"
+  },
+  {
+    "id": 9479,
+    "name": "Millienhagen-Oebelitz",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 8333,
+    "name": "Fichtenhöhe",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 5428,
+    "name": "Elchesheim-Illingen",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 6107,
+    "name": "Adelschlag",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 6117,
+    "name": "Aholfing",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 5431,
+    "name": "Sasbach am Kaiserstuhl",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 11683,
+    "name": "Hamm am Rhein",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 13796,
+    "name": "Sanne-Kerkuhn",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 6430,
+    "name": "Dillingen a.d.Donau",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14955,
+    "name": "Ahlefeld-Bistensee",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 6131,
+    "name": "Aitrang",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8947,
+    "name": "Selters (Taunus)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 10558,
+    "name": "Gusborn",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 10730,
+    "name": "Ihlow",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 8164,
+    "name": "Panketal",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 17162,
+    "name": "Schloß-Holte Stukenbrock",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 7500,
+    "name": "Prien a.Chiemsee",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 7249,
+    "name": "Murnau a.Staffelsee",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 19074,
+    "name": "Köln",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 6387,
+    "name": "Burk (Landkreis Ansbach)",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 19125,
+    "name": "Bielefeld",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 10925,
+    "name": "Swisttal",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 18834,
+    "name": "Neuhausen a.d.F.",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 15636,
+    "name": "Niendorf bei Berkenthin",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 19100,
+    "name": "Pfäffikon",
+    "admin_area": "Schwyz"
+  },
+  {
+    "id": 13737,
+    "name": "Wallendorf (Luppe)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 18858,
+    "name": "Mühlheim an der Ruhr",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 10956,
+    "name": "Bedburg-Hau",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 8475,
+    "name": "Marienfließ",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 18917,
+    "name": "ST. GEORGEN AM STEINFELDE",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 17477,
+    "name": "Mühlbach",
+    "admin_area": "Oberösterreich"
+  },
+  {
+    "id": 544,
+    "name": "Großdietmanns",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 12474,
+    "name": "Zell (Mosel)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 17620,
+    "name": "Deisenhofen bei München",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 10794,
+    "name": "Rosengarten",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 16239,
+    "name": "Gerstengrund",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 4426,
+    "name": "Schinznach-Dorf",
+    "admin_area": "Aargau"
+  },
+  {
+    "id": 5807,
+    "name": "Wernau (Neckar)",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 5474,
+    "name": "Altheim (Alb)",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8637,
+    "name": "Breitenbach a. Herzberg",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 16886,
+    "name": "Brünn/Thür.",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 18524,
+    "name": "Le Morgnes (Lourtier)",
+    "admin_area": "Wallis"
+  },
+  {
+    "id": 17757,
+    "name": "Bern Swisscom",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 18042,
+    "name": "Villars-Fontenais",
+    "admin_area": "Jura"
+  },
+  {
+    "id": 17048,
+    "name": "23., Liesing",
+    "admin_area": "Wien"
+  },
+  {
+    "id": 6484,
+    "name": "Egling a.d.Paar",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 4747,
+    "name": "Valcolla",
+    "admin_area": "Tessin"
+  },
+  {
+    "id": 8757,
+    "name": "Hatzfeld (Eder)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8300,
+    "name": "Seddiner See",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 8594,
+    "name": "Antrifttal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 7612,
+    "name": "Rott a.Inn",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 4366,
+    "name": "Saint-Martin",
+    "admin_area": "Freiburg"
+  },
+  {
+    "id": 9460,
+    "name": "Malk Göhren",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 10094,
+    "name": "Ahlden (Aller)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 6106,
+    "name": "Achslach",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 16355,
+    "name": "Niedertrebra",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 18500,
+    "name": "Bioley-de-Brignon (Nendaz)",
+    "admin_area": "Wallis"
+  },
+  {
+    "id": 18959,
+    "name": "Moringen-Fredelsloh",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 12143,
+    "name": "Hahn am See",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 11506,
+    "name": "Schmittweiler",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 11890,
+    "name": "Berschweiler bei Kirn",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 16599,
+    "name": "Dünwald",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 7021,
+    "name": "Kraiburg a.Inn",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 17725,
+    "name": "Zofingen Postfinance UBS",
+    "admin_area": "Aargau"
+  },
+  {
+    "id": 5051,
+    "name": "Remseck am Neckar",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 636,
+    "name": "Enzersfeld im Weinviertel",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 11745,
+    "name": "Kerpen (Eifel)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 8805,
+    "name": "Knüllwald",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 7130,
+    "name": "Malgersdorf",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18659,
+    "name": "Büsingen",
+    "admin_area": "Schaffhausen"
+  },
+  {
+    "id": 11940,
+    "name": "Hausen (Wied)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 6905,
+    "name": "Inning a.Holz",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14974,
+    "name": "Ammersbek",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 11996,
+    "name": "Roth bei Prüm",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 18409,
+    "name": "Boscherina",
+    "admin_area": "Tessin"
+  },
+  {
+    "id": 8170,
+    "name": "Beiersdorf-Freudenberg",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 11078,
+    "name": "Herzebrock-Clarholz",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 6224,
+    "name": "Bad Berneck i.Fichtelgebirge",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 3134,
+    "name": "Feldbrunnen-St.Niklaus",
+    "admin_area": "Solothurn"
+  },
+  {
+    "id": 8486,
+    "name": "Rietzneuendorf-Staakow",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 7109,
+    "name": "Lohr a.Main",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18647,
+    "name": "Urdorf RRD",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 18057,
+    "name": "Sulz LU",
+    "admin_area": "Luzern"
+  },
+  {
+    "id": 13870,
+    "name": "Nienburg (Saale)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 7829,
+    "name": "Sulzdorf a.d.Lederhecke",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 2003,
+    "name": "Völs (Tirol)",
+    "admin_area": "Tirol"
+  },
+  {
+    "id": 7651,
+    "name": "Sankt Wolfgang",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 9147,
+    "name": "Datzetal",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 6111,
+    "name": "Adelsried",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18778,
+    "name": "Fägswil",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 18283,
+    "name": "Wiezikon b. Sirnach",
+    "admin_area": "Thurgau"
+  },
+  {
+    "id": 6503,
+    "name": "Elchingen",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 1732,
+    "name": "Vogau",
+    "admin_area": "Steiermark"
+  },
+  {
+    "id": 10830,
+    "name": "Hagen am Teutoburger Wald",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 3731,
+    "name": "L’Isle",
+    "admin_area": "Waadt"
+  },
+  {
+    "id": 17494,
+    "name": "Gumpenmühle",
+    "admin_area": "Oberösterreich"
+  },
+  {
+    "id": 11487,
+    "name": "Mittelhof",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 16994,
+    "name": "Hohnstein",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 5975,
+    "name": "Schwarzach",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 10869,
+    "name": "Kalletal",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 13849,
+    "name": "Tornau vor der Heide",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 9185,
+    "name": "Feldberger Seenlandschaft",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 8673,
+    "name": "Ehrenberg (Rhön)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14865,
+    "name": "Sohland a. Rotstein",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 17493,
+    "name": "Marbach",
+    "admin_area": "Oberösterreich"
+  },
+  {
+    "id": 17923,
+    "name": "Genève 2",
+    "admin_area": "Genf"
+  },
+  {
+    "id": 19076,
+    "name": "St.Gallen",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 4457,
+    "name": "Schwanden bei Brienz",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 8340,
+    "name": "Neu-Seeland",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 14631,
+    "name": "Heinsdorfergrund",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 9233,
+    "name": "Grabow-Below",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 10243,
+    "name": "Drebber",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 10261,
+    "name": "Freden (Leine)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 11495,
+    "name": "Naurath (Wald)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 8962,
+    "name": "Sulzbach (Taunus)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 18928,
+    "name": "effretikon",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 13854,
+    "name": "Wulkow",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 4517,
+    "name": "Sion (dt. Sitten)",
+    "admin_area": "Wallis"
+  },
+  {
+    "id": 17913,
+    "name": "Genève 5 cases",
+    "admin_area": "Genf"
+  },
+  {
+    "id": 14272,
+    "name": "Bismark (Altmark)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 7229,
+    "name": "Moosburg a.d.Isar",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 9659,
+    "name": "Severin",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 14640,
+    "name": "Hohendubrau",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 6585,
+    "name": "Flintsbach a.Inn",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14856,
+    "name": "Schönwölkau",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 19041,
+    "name": "Sempach Station",
+    "admin_area": "Luzern"
+  },
+  {
+    "id": 19149,
+    "name": "Salzburg",
+    "admin_area": "Salzburg"
+  },
+  {
+    "id": 18141,
+    "name": "Buchs Bahnhof SBB",
+    "admin_area": "Sankt Gallen"
+  },
+  {
+    "id": 8812,
+    "name": "Lahnau",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14791,
+    "name": "Parthenstein",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 13527,
+    "name": "Neunkirchen (Hunsrück)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 12901,
+    "name": "Dürrholz",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 14906,
+    "name": "Vierkirchen",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 13118,
+    "name": "Zellertal",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 13653,
+    "name": "Muldenstein",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 8829,
+    "name": "Linden",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14831,
+    "name": "Röderaue",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 17729,
+    "name": "Kleindöttingen",
+    "admin_area": "Aargau"
+  },
+  {
+    "id": 7271,
+    "name": "Neufahrn i.NB",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8922,
+    "name": "Rosbach v. d. Höhe",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 275,
+    "name": "Feldkirchen",
+    "admin_area": "Kärnten"
+  },
+  {
+    "id": 8168,
+    "name": "Oberbarnim",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 4429,
+    "name": "Schlatt bei Winterthur",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 6183,
+    "name": "Arnstein (Unterfranken)",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8572,
+    "name": "Neuenhagen bei Berlin",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 5260,
+    "name": "Argenbühl",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 9672,
+    "name": "Stavenhagen",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 16938,
+    "name": "Grabfeld",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 10671,
+    "name": "Neuenkirchen-Vörden",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 6694,
+    "name": "Grabenstätt",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8267,
+    "name": "Parsteinsee",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 10976,
+    "name": "Rosendahl",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 17987,
+    "name": "S. Bernardino",
+    "admin_area": "Graubünden"
+  },
+  {
+    "id": 16888,
+    "name": "Zella/Rhön",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 5584,
+    "name": "Schönbrunn",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 1762,
+    "name": "Stambach",
+    "admin_area": "Steiermark"
+  },
+  {
+    "id": 14902,
+    "name": "Triebel/Vogtl.",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 7816,
+    "name": "Stötten a.Auerberg",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 16254,
+    "name": "Asbach-Sickenberg",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 17713,
+    "name": "Villigen PSI",
+    "admin_area": "Aargau"
+  },
+  {
+    "id": 19120,
+    "name": "Moritzburg",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 8755,
+    "name": "Hasselroth",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8717,
+    "name": "Gemünden (Felda)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14765,
+    "name": "Niederwürschnitz",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 6151,
+    "name": "Altenmünster",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 4714,
+    "name": "Unterems",
+    "admin_area": "Wallis"
+  },
+  {
+    "id": 8810,
+    "name": "Kronberg im Taunus",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 5358,
+    "name": "Starzach",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 14731,
+    "name": "Mühlental",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 7352,
+    "name": "Oberndorf a.Lech",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 7719,
+    "name": "Schwanstetten",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 16262,
+    "name": "Wutha-Farnroda",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 18446,
+    "name": "Daillens Centre Colis",
+    "admin_area": "Waadt"
+  },
+  {
+    "id": 18302,
+    "name": "Ottoberg",
+    "admin_area": "Thurgau"
+  },
+  {
+    "id": 16725,
+    "name": "Auengrund",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 5008,
+    "name": "Balzheim",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 16911,
+    "name": "Freienhagen",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 8896,
+    "name": "Otzberg",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8336,
+    "name": "Mark Landin",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 14308,
+    "name": "Schönebeck (Elbe)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 18327,
+    "name": "Traversa",
+    "admin_area": "Tessin"
+  },
+  {
+    "id": 6207,
+    "name": "Aura i.Sinngrund",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 5621,
+    "name": "Kreßberg",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 6136,
+    "name": "Alesheim",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 6966,
+    "name": "Kirchdorf a.Inn",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18998,
+    "name": "Duebendorf",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 8783,
+    "name": "Homberg (Ohm)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 17423,
+    "name": "Haagen",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 17774,
+    "name": "Niederwangen b. Bern",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 14867,
+    "name": "Sornzig-Ablaß",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 10513,
+    "name": "Essen (Oldenburg)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 9848,
+    "name": "Schwülper",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 17918,
+    "name": "Genève 10",
+    "admin_area": "Genf"
+  },
+  {
+    "id": 7518,
+    "name": "Rammingen",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14672,
+    "name": "Kreba-Neudorf",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 14021,
+    "name": "Schönwalde (Altmark)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 18793,
+    "name": "harz-wienrode",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 18910,
+    "name": "Lichtenfels- Goddelsheim",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 7605,
+    "name": "Röthenbach (Allgäu)",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 10850,
+    "name": "Fischbeck (Hessisch Oldendorf)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 15184,
+    "name": "Engelbrechtsche Wildnis",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 14486,
+    "name": "Bennewitz",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 10648,
+    "name": "Lingen (Ems)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 14084,
+    "name": "Seehausen (Altmark)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 14448,
+    "name": "Lanitz-Hassel-Tal",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 8909,
+    "name": "Reinhardshagen",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 6278,
+    "name": "Berg b.Neumarkt i.d.OPf.",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 12660,
+    "name": "Külz (Hunsrück)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 6086,
+    "name": "Straubenhardt",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 10862,
+    "name": "Emmerich am Rhein",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 16664,
+    "name": "Harth-Pöllnitz",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 9681,
+    "name": "Stolpe auf Usedom",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 2765,
+    "name": "Calfreisen",
+    "admin_area": "Graubünden"
+  },
+  {
+    "id": 8067,
+    "name": "Westerngrund",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 13766,
+    "name": "Niederröblingen (Helme)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 8473,
+    "name": "Havelaue",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 14204,
+    "name": "Arendsee (Altmark)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 11062,
+    "name": "Stolberg (Rheinland)",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 8756,
+    "name": "Hattersheim am Main",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14821,
+    "name": "Reichenbach im Vogtland",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 17971,
+    "name": "Sta. Maria V. M.",
+    "admin_area": "Graubünden"
+  },
+  {
+    "id": 11582,
+    "name": "Michelbach (Westerwald)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 14321,
+    "name": "Wülperode",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 14869,
+    "name": "Spreetal",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 10009,
+    "name": "Cappeln (Oldenburg)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 8211,
+    "name": "Petershagen/Eggersdorf",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 14557,
+    "name": "Elsterheide",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 8852,
+    "name": "Modautal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 7351,
+    "name": "Obernburg a.Main",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 17921,
+    "name": "Genève 4",
+    "admin_area": "Genf"
+  },
+  {
+    "id": 11117,
+    "name": "Sundern (Sauerland)",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 5842,
+    "name": "Gailingen am Hochrhein",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8228,
+    "name": "Ragow-Merz",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 18869,
+    "name": "Egg b. Zürich",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 6217,
+    "name": "Bach a.d.Donau",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8448,
+    "name": "Herzberg (Mark)",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 7638,
+    "name": "Sachsen b.Ansbach",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 7102,
+    "name": "Lindau (Bodensee)",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8370,
+    "name": "Neißemünde",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 8901,
+    "name": "Poppenhausen (Wasserkuppe)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 6408,
+    "name": "Dammbach",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18203,
+    "name": "Wil SG Distributionsbasis",
+    "admin_area": "Sankt Gallen"
+  },
+  {
+    "id": 12719,
+    "name": "Heidesheim am Rhein",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 13566,
+    "name": "Mandelbachtal",
+    "admin_area": "Saarland"
+  },
+  {
+    "id": 9103,
+    "name": "Bresegard bei Picher",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 3740,
+    "name": "Mairengo",
+    "admin_area": "Tessin"
+  },
+  {
+    "id": 8868,
+    "name": "Neuberg",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8197,
+    "name": "Luckaitztal",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 9525,
+    "name": "Nienhagen",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 9193,
+    "name": "Fünfseen",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 8502,
+    "name": "Neuhausen/Spree",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 16692,
+    "name": "Graitschen b. Bürgel",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 5895,
+    "name": "Sonnenbühl",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 5344,
+    "name": "Lautenbach (Ortenaukreis)",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 7804,
+    "name": "Steinsdorf (Altmannstein)",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 7649,
+    "name": "Sankt Englmar",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 16778,
+    "name": "Berka v. d. Hainich",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 14748,
+    "name": "Neuhausen/Erzgeb.",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 17922,
+    "name": "Genève 5",
+    "admin_area": "Genf"
+  },
+  {
+    "id": 2965,
+    "name": "Degen GR",
+    "admin_area": "Graubünden"
+  },
+  {
+    "id": 6190,
+    "name": "Aschau a.Inn",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14775,
+    "name": "Oderwitz",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 5717,
+    "name": "Endingen am Kaiserstuhl",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 14581,
+    "name": "Gelenau/Erzgeb.",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 18782,
+    "name": "Fernwald-Annerod",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 5015,
+    "name": "Heiligenberg (Bodenseekreis)",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 18953,
+    "name": "Erndtebrück-Schameder",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 15759,
+    "name": "Rethwisch",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 16999,
+    "name": "Dornburg-Camburg",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 6455,
+    "name": "Eberfing",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 3957,
+    "name": "Neyruz-sur-Moudon",
+    "admin_area": "Waadt"
+  },
+  {
+    "id": 8490,
+    "name": "Kremitzaue",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 17322,
+    "name": "Neufurth",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 6126,
+    "name": "Aiglsbach",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 6942,
+    "name": "Karlstein a.Main",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8996,
+    "name": "Wettenberg",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 18664,
+    "name": "Ruggell",
+    "admin_area": "Sankt Gallen"
+  },
+  {
+    "id": 5211,
+    "name": "Neustetten",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 17418,
+    "name": "Nest",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 13984,
+    "name": "Groß Schwechten",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 18901,
+    "name": "Solms- Niederbiel",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 17718,
+    "name": "Hunzenschwil LZ",
+    "admin_area": "Aargau"
+  },
+  {
+    "id": 8133,
+    "name": "Wörth a.d.Isar",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14777,
+    "name": "Oelsnitz/Erzgeb.",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 16424,
+    "name": "Remda-Teichel",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 10081,
+    "name": "Bawinkel",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 12782,
+    "name": "Mülheim (Mosel)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 17044,
+    "name": "19., Döbling",
+    "admin_area": "Wien"
+  },
+  {
+    "id": 8857,
+    "name": "Mücke",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8337,
+    "name": "Märkisch Linden",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 15801,
+    "name": "Schenefeld",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 19088,
+    "name": "Lampertheim",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 6748,
+    "name": "Haag i.OB",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 5407,
+    "name": "Berglen",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8855,
+    "name": "Morschen",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 18638,
+    "name": "Bischelsee",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 9163,
+    "name": "Dolgen am See",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 17926,
+    "name": "Genève 28",
+    "admin_area": "Genf"
+  },
+  {
+    "id": 17241,
+    "name": "Sankt Ingbert",
+    "admin_area": "Saarland"
+  },
+  {
+    "id": 15832,
+    "name": "Schülp b. Rendsburg",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 18883,
+    "name": "Zeil am Main",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 10829,
+    "name": "Winsen (Luhe)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 8635,
+    "name": "Brechen",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 11889,
+    "name": "Berschweiler bei Baumholder",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 447,
+    "name": "Zwettl",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 9331,
+    "name": "Karbow-Vietlübbe",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 17433,
+    "name": "Riederberg",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 8772,
+    "name": "Hirschhorn (Neckar)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 13227,
+    "name": "Sankt Martin",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 16587,
+    "name": "Großlohra",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 18944,
+    "name": "Nierderwangen bei Bern",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 17352,
+    "name": "Weyerburg",
+    "admin_area": "Niederösterreich"
+  },
+  {
+    "id": 5668,
+    "name": "Frankenhardt",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8951,
+    "name": "Sinntal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14612,
+    "name": "Großtreben-Zwethau",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 7633,
+    "name": "Ruhstorf a.d.Rott",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18919,
+    "name": "Altenried",
+    "admin_area": "Oberösterreich"
+  },
+  {
+    "id": 6191,
+    "name": "Aschau i.Chiemgau",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 2388,
+    "name": "Aetingen",
+    "admin_area": "Solothurn"
+  },
+  {
+    "id": 8762,
+    "name": "Heppenheim (Bergstraße)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14667,
+    "name": "Königshain-Wiederau",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 5385,
+    "name": "Bahlingen am Kaiserstuhl",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 19128,
+    "name": "Kressbronn am Bodensee",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 19121,
+    "name": "Leonberg",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 12527,
+    "name": "Mähren",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 18144,
+    "name": "St. Margrethenberg",
+    "admin_area": "Sankt Gallen"
+  },
+  {
+    "id": 8220,
+    "name": "Dahme/Mark",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 10706,
+    "name": "Rotenburg (Wümme)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 8856,
+    "name": "Mossautal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 4735,
+    "name": "Urtenen-Schönbühl",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 9113,
+    "name": "Buchberg",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 6262,
+    "name": "Bayerbach b.Ergoldsbach",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 7019,
+    "name": "Kötz",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 5922,
+    "name": "March",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 9030,
+    "name": "Am Salzhaff",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 8235,
+    "name": "Werder (Havel)",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 4003,
+    "name": "Oberbözberg",
+    "admin_area": "Aargau"
+  },
+  {
+    "id": 11758,
+    "name": "Berg (Pfalz)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 16723,
+    "name": "Schleusegrund",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 4359,
+    "name": "Saint-Cierges",
+    "admin_area": "Waadt"
+  },
+  {
+    "id": 8780,
+    "name": "Hohenroda",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 14733,
+    "name": "Mulda/Sa.",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 12682,
+    "name": "Ellern (Hunsrück)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 5400,
+    "name": "Achberg",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 15637,
+    "name": "Niendorf/ Stecknitz",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 6206,
+    "name": "Aura a.d.Saale",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 5534,
+    "name": "Fichtenau",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8720,
+    "name": "Gersfeld (Rhön)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 11624,
+    "name": "Bad Marienberg (Westerwald)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 9162,
+    "name": "Dobin am See",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 18117,
+    "name": "St. Niklausen OW",
+    "admin_area": "Obwalden"
+  },
+  {
+    "id": 4388,
+    "name": "Sankt Stephan BE",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 8477,
+    "name": "Gülitz-Reetz",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 17919,
+    "name": "Genève 14",
+    "admin_area": "Genf"
+  },
+  {
+    "id": 18457,
+    "name": "Lausanne Adm cant VD",
+    "admin_area": "Waadt"
+  },
+  {
+    "id": 17601,
+    "name": "Wittstock/Dosse Freyenstein",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 12467,
+    "name": "Quirnbach/Pfalz",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 16494,
+    "name": "Oberland am Rennsteig",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 14478,
+    "name": "Bahretal",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 11736,
+    "name": "Kirrweiler (Pfalz)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 6109,
+    "name": "Adelshofen (Mittelfranken)",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 6197,
+    "name": "Au i.d.Hallertau",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 16121,
+    "name": "Schimberg",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 18462,
+    "name": "La Croix (Lutry)",
+    "admin_area": "Waadt"
+  },
+  {
+    "id": 4576,
+    "name": "Stein (SG)",
+    "admin_area": "Sankt Gallen"
+  },
+  {
+    "id": 8491,
+    "name": "Fichtwald",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 10574,
+    "name": "Hitzacker (Elbe)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 6150,
+    "name": "Altenmarkt a.d.Alz",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18787,
+    "name": "Au Wädenswil",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 9501,
+    "name": "Nesow",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 8310,
+    "name": "Lunow-Stolzenhagen",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 17268,
+    "name": "Ottosch",
+    "admin_area": "Kärnten"
+  },
+  {
+    "id": 12865,
+    "name": "Henschtal",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 17659,
+    "name": "Pansdorf, Holstein",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 6356,
+    "name": "Buch a.Erlbach",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 5918,
+    "name": "Reute",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 15234,
+    "name": "Glücksburg (Ostsee)",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 8466,
+    "name": "Schöneiche bei Berlin",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 3759,
+    "name": "Maroggio",
+    "admin_area": "Tessin"
+  },
+  {
+    "id": 17608,
+    "name": "Betzweiler-Wälde",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 7533,
+    "name": "Redwitz a.d.Rodach",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 8625,
+    "name": "Biebertal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 12044,
+    "name": "Albisheim (Pfrimm)",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 19053,
+    "name": "Glattbruck",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 18911,
+    "name": "Welledingen",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8388,
+    "name": "Neiße-Malxetal",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 5646,
+    "name": "Häg-Ehrsberg",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8403,
+    "name": "Grünheide (Mark)",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 9199,
+    "name": "Gallin-Kuppentin",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 7077,
+    "name": "Lauingen (Donau)",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 7196,
+    "name": "Michelau i.OFr.",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 18838,
+    "name": "Seesen-Rhüden",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 11562,
+    "name": "Bonerath",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 3963,
+    "name": "Niedergesteln",
+    "admin_area": "Wallis"
+  },
+  {
+    "id": 9696,
+    "name": "Teldau",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 14259,
+    "name": "Blankenburg (Harz)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 10091,
+    "name": "Rethem (Aller)",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 18845,
+    "name": "Schloß Holte-Stukenbrok",
+    "admin_area": "Nordrhein-Westfalen"
+  },
+  {
+    "id": 8553,
+    "name": "Rosenau",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 17817,
+    "name": "Unterbach BE",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 17037,
+    "name": "12., Meidling",
+    "admin_area": "Wien"
+  },
+  {
+    "id": 4355,
+    "name": "Saint-Barthélemy",
+    "admin_area": "Waadt"
+  },
+  {
+    "id": 12103,
+    "name": "Weyher in der Pfalz",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 8180,
+    "name": "Randowtal",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 8908,
+    "name": "Reichelsheim (Wetterau)",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 8593,
+    "name": "Angelburg",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 10165,
+    "name": "Uplengen",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 5923,
+    "name": "Lichtenstein",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 7722,
+    "name": "Schwarzach b.Nabburg",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 9560,
+    "name": "Insel Poel",
+    "admin_area": "Mecklenburg-Vorpommern"
+  },
+  {
+    "id": 4209,
+    "name": "Reisiwil",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 17911,
+    "name": "Genève 12",
+    "admin_area": "Genf"
+  },
+  {
+    "id": 8599,
+    "name": "Bad Emstal",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 9838,
+    "name": "Höhbeck",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 16367,
+    "name": "Renthendorf",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 5258,
+    "name": "Waldachtal",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 8295,
+    "name": "Lenzen (Elbe)",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 5964,
+    "name": "Karlsbad",
+    "admin_area": "Baden-Württemberg"
+  },
+  {
+    "id": 16837,
+    "name": "Tabarz/Thür. Wald",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 7797,
+    "name": "Steinbach a.Wald",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 15784,
+    "name": "Sankt Margarethen",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 15736,
+    "name": "Rade b. Hohenwestedt",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 6357,
+    "name": "Buch a.Wald",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14752,
+    "name": "Neukirchen/Erzgeb.",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 15916,
+    "name": "Südermarsch",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 8338,
+    "name": "Stüdenitz-Schönermark",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 10609,
+    "name": "Hollern-Twielenfleth",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 17716,
+    "name": "Rheinsulz",
+    "admin_area": "Aargau"
+  },
+  {
+    "id": 8692,
+    "name": "Fernwald",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 16007,
+    "name": "Wenningstedt-Braderup (Sylt)",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 8485,
+    "name": "Steinreich",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 8831,
+    "name": "Linsengericht",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 18592,
+    "name": "Bertschikon (Gossau ZH)",
+    "admin_area": "Zürich"
+  },
+  {
+    "id": 12069,
+    "name": "Stahlhofen am Wiesensee",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 8196,
+    "name": "Nuthetal",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 17580,
+    "name": "Luckow-Petershagen",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 7273,
+    "name": "Neuhaus a.Inn",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 6632,
+    "name": "Garching a.d.Alz",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 14847,
+    "name": "Schmölln-Putzkau",
+    "admin_area": "Sachsen"
+  },
+  {
+    "id": 13670,
+    "name": "Osterburg (Altmark)",
+    "admin_area": "Sachsen-Anhalt"
+  },
+  {
+    "id": 10096,
+    "name": "Neuschoo",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 8584,
+    "name": "Abtsteinach",
+    "admin_area": "Hessen"
+  },
+  {
+    "id": 10108,
+    "name": "Lemgow",
+    "admin_area": "Niedersachsen"
+  },
+  {
+    "id": 7867,
+    "name": "Theres",
+    "admin_area": "Bayern"
+  },
+  {
+    "id": 17033,
+    "name": "8., Josefstadt",
+    "admin_area": "Wien"
+  },
+  {
+    "id": 16460,
+    "name": "Wipfratal",
+    "admin_area": "Thüringen"
+  },
+  {
+    "id": 15752,
+    "name": "Reinfeld (Holstein)",
+    "admin_area": "Schleswig-Holstein"
+  },
+  {
+    "id": 3413,
+    "name": "Höfen",
+    "admin_area": "Bern"
+  },
+  {
+    "id": 8560,
+    "name": "Schwielochsee",
+    "admin_area": "Brandenburg"
+  },
+  {
+    "id": 12552,
+    "name": "Glanbrücken",
+    "admin_area": "Rheinland-Pfalz"
+  },
+  {
+    "id": 18783,
+    "name": "Hart bei Graz",
+    "admin_area": "Steiermark"
+  }
+]
