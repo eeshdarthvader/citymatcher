@@ -1,0 +1,20 @@
+{
+  "presets": [
+    ["es2015", { "modules": false, "loose": true }],
+    "stage-1",
+    "react"
+  ],
+  "plugins": [
+    "sitrep",
+    "react-hot-loader/babel",
+    // Enables React code to work with HMR.
+    [
+      "transform-runtime",
+      {
+        "polyfill": false,
+        "regenerator": true
+      }
+    ],
+    "transform-es2015-arrow-functions"
+  ]
+}

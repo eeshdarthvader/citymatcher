@@ -1,0 +1,129 @@
+/* eslint-disable */
+
+@import "base/reset";
+@import "base/colors";
+@import "components/Header";
+@import "components/Button";
+@import "components/Row";
+@import "components/List";
+@import "components/Loading";
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -moz-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+// html {
+//   // font-size: 62.5%;
+// }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", "Ubuntu", "Arial", sans-serif;
+  font-size: 18px;
+  background-color: #bc164d;
+  position: relative;
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.homeGrid {
+  // display: grid;
+  min-height: 100vh;
+  // grid-template-rows: 1fr 100px;
+  // grid-template-columns: 50px 1fr;
+  margin: 30px;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.main__body {
+  div {
+    display: flex;
+    p {
+      flex: 0 0 50%;
+    }
+  }
+}
+
+.box {
+  position: relative;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  min-height: 30px;
+  margin-bottom: 0;
+  background: none;
+  border: none;
+  text-align: center;
+  color: #fff;
+}
+
+.boxHeader {
+  position: relative;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  min-height: 30px;
+  margin-bottom: 0;
+  background: none;
+  border: none;
+  overflow: hidden;
+  text-align: center;
+  color: #000;
+  z-index: 800;
+  span {
+    font-size: 2.2vw;
+  }
+}
+
+.pagination {
+  display: inline-block;
+  margin-left: 55px;
+  border-top: 2px solid #bc164d;
+  padding-top: 15px;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 12px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+  border: 1px solid #ddd;
+  margin: 4px 4px;
+  border-radius: 5px;
+}
+
+.pagination a.active {
+  background-color: #4caf50;
+  color: white;
+  border: 1px solid #4caf50;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+@media only screen and (min-width: 48rem) {
+  .box {
+    padding: 1rem;
+  }
+
+  .row {
+    padding: 1rem;
+  }
+  .container {
+    padding: 1rem;
+  }
+  .nested {
+    padding: 1rem;
+  }
+  .large {
+    padding: 1rem;
+  }
+}
