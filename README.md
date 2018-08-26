@@ -41,6 +41,21 @@ yarn build:client (generates production ready build/ folder)
 Can be served using serve -p <PORT> build/
 ```
 
+## Universal Rendering (WIP)
+
+```
+yarn build:client
+yarn build:server
+yarn ssr
+```
+
+Production build
+
+```
+yarn build:client (generates production ready build/ folder)
+Can be served using serve -p <PORT> build/
+```
+
 ## Author
 
 - **Eesh Tyagi**
