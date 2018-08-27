@@ -21,8 +21,9 @@ class Home extends React.Component {
   };
   componentDidMount() {
     const { id } = this.props.params;
-
-    this.setState({ currentPage: Number(id) });
+    if (id) {
+      this.setState({ currentPage: Number(id) });
+    }
   }
 
   componentWillReceiveProps(nextProps) {

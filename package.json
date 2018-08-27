@@ -25,7 +25,6 @@
     "react-redux": "^5.0.6",
     "react-router": "3.0.5",
     "redux": "^3.7.2",
-    "superagent": "^3.8.3",
     "webpack-node-externals": "^1.7.2"
   },
   "devDependencies": {
@@ -88,11 +87,12 @@
     "webpack-dev-server": "^2.7.1"
   },
   "scripts": {
-    "start": "concurrently --kill-others \"yarn run dev\"",
+    "start": "concurrently --kill-others \"yarn run dev\" \"yarn run server\"",
     "dev": "webpack-dev-server --open --config ./config/webpack.config.dev.js",
     "build:client": "webpack --config ./config/webpack.config.prod.js --progress --profile --colors",
     "build:server": "cross-env webpack --config ./config/webpack.config.server.js --progress --colors",
     "bundleAnalyser": "webpack --config ./config/webpack.config.prod.js",
-    "ssr": "node ./build/server/main.js"
+    "ssr": "node ./build/server/main.js",
+    "server": "node ./apiservice/api/index.js"
   }
 }

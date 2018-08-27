@@ -12,23 +12,13 @@ node js and yarn
 yarn
 ```
 
-## API Server
-
-Install the dependencies and start the API (runs on 0.0.0.0:8080):
-
-```
-cd apiservice
-npm install
-node api/index.js
-```
-
 ## Development
 
 Application using developement server
 
 ```
 yarn start
-
+(starts the API server on 0.0.0.0:8080 )
 (opens up the application on port 3000 with Hot module reloading)
 ```
 

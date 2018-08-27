@@ -1,6 +1,6 @@
-import request from "superagent";
+import axios from "axios";
 
-const dataService = store => next => action => {
+const dataService = store => next => async action => {
   /*
   Pass all actions through by default
   */
@@ -11,26 +11,13 @@ const dataService = store => next => action => {
     In case we receive an action to send an API request, send the appropriate request
     */
 
-      request.get("http://localhost:8080/v1/cities").end((err, res) => {
-        if (err) {
-          /*
-          in case there is any error, dispatch an action containing the error
-          */
-          return next({
-            type: "GET_NEWCITY_DATA_ERROR",
-            err
-          });
-        }
-        const data = res.body;
-        /*
-        Once data is received, dispatch an action telling the application
-        that data was received successfully, along with the parsed data
-        */
-        next({
-          type: "GET_NEWCITY_DATA_RECEIVED",
-          data
-        });
+      const res = await axios.get("http://localhost:8080/v1/cities");
+
+      next({
+        type: "GET_NEWCITY_DATA_RECEIVED",
+        data: res.data
       });
+
       break;
     /*
   Do nothing if the action does not interest us
