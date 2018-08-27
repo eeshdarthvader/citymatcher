@@ -87,7 +87,7 @@
     "webpack-dev-server": "^2.7.1"
   },
   "scripts": {
-    "start": "concurrently --kill-others \"yarn run dev\" \"yarn run server\"",
+    "start": "concurrently --kill-others \"yarn run build:client && serve -p 3000 build/\" \"yarn run server \"",
     "dev": "webpack-dev-server --open --config ./config/webpack.config.dev.js",
     "build:client": "webpack --config ./config/webpack.config.prod.js --progress --profile --colors",
     "build:server": "cross-env webpack --config ./config/webpack.config.server.js --progress --colors",
