@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router";
 import { Grid, Row, Col } from "react-flexbox-grid";
 import { connect } from "react-redux";
 import Box from "Components/Box";
@@ -18,9 +19,20 @@ class Home extends React.Component {
       currentPage: Number(event.target.id)
     });
   };
+  componentDidMount() {
+    const { id } = this.props.params;
+
+    this.setState({ currentPage: Number(id) });
+  }
+
+  componentWillReceiveProps(nextProps) {
+    if (nextProps.params.id !== this.props.params.id) {
+      this.setState({ currentPage: Number(nextProps.params.id) });
+    }
+  }
 
   render() {
-    const { cityList, loading } = this.props;
+    const { cityList, loading, match } = this.props;
     const { currentPage, citiesPerPage } = this.state;
 
     let cities = cityList;
@@ -40,16 +52,14 @@ class Home extends React.Component {
 
     const renderPageNumbers = pageNumbers.map(number => {
       return (
-        <a
-          key={number}
-          id={number}
+        <Link
           className={number === currentPage && "active"}
+          key={number}
+          to={`/${number}`}
           onClick={this.handleClick}
-          href={`#${number}`}
         >
-          {" "}
           {number}
-        </a>
+        </Link>
       );
     });
 

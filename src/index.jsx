@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM, { hydrate } from "react-dom";
-import { createStore, applyMiddleware, compose } from "redux";
+import { createStore, applyMiddleware } from "redux";
 import { Provider } from "react-redux";
 import { isEmpty } from "utils";
 import { Router, browserHistory } from "react-router";

@@ -6,11 +6,14 @@ import Header from "Lib/Header";
 import Home from "./pages/Home";
 
 class App extends Component {
+  componentDidMount() {
+    console.log(this.props);
+  }
   render() {
     return (
       <div className="cityMatcherApp">
         <Header />
-        <Home />
+        <Home {...this.props} />
       </div>
     );
   }
